@@ -1,0 +1,326 @@
+[
+    {
+      "id": 1,
+      "name": "The Dandy chair",
+      "image": "../assets/catalog/item-1.png",
+      "weight": "500",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "250",
+      "priceActive": "250",
+      "currency": "&pound;",
+      "category": "Chairs",
+      "type": "---",
+      "isPopular": "false",
+      "isNew": "false"
+    },
+    {
+      "id": 2,
+      "name": "The Baloone site",
+      "image": "../assets/catalog/item-2.png",
+      "weight": "600",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "350",
+      "priceActive": "350",
+      "currency": "&pound;",
+      "category": "Ceramics",
+      "type": "---",
+      "isPopular": "true",
+      "isNew": "false"
+    },
+    {
+      "id": 3,
+      "name": "The Silky Vase",
+      "image": "../assets/catalog/item-3.png",
+      "weight": "550",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "125",
+      "priceActive": "125",
+      "currency": "&pound;",
+      "category": "Ceramics",
+      "type": "---",
+      "isPopular": "true",
+      "isNew": "true"
+    },
+    {
+      "id": 4,
+      "name": "The Lucy Lamp",
+      "image": "../assets/catalog/item-4.png",
+      "weight": "450",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "390",
+      "priceActive": "390",
+      "currency": "&pound;",
+      "category": "Fixtures",
+      "type": "---",
+      "isPopular": "false",
+      "isNew": "true"
+    },
+    {
+      "id": 5,
+      "name": "The Poplar suede sofa",
+      "image": "../assets/catalog/item-5.png",
+      "weight": "500",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "980",
+      "priceActive": "980",
+      "currency": "&pound;",
+      "category": "Furniture",
+      "type": "---",
+      "isPopular": "false",
+      "isNew": "false"
+    },
+    {
+      "id": 6,
+      "name": "The Danndy Chair",
+      "image": "../assets/catalog/item-6.png",
+      "weight": "500",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "250",
+      "priceActive": "250",
+      "currency": "&pound;",
+      "category": "Chairs",
+      "type": "---",
+      "isPopular": "true",
+      "isNew": "false"
+    },
+    {
+      "id": 7,
+      "name": "The Cicle chair",
+      "image": "../assets/catalog/item-7.png",
+      "weight": "500",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "290",
+      "priceActive": "290",
+      "currency": "&pound;",
+      "category": "Chairs",
+      "type": "---",
+      "isPopular": "true",
+      "isNew": "true"
+    },
+    {
+      "id": 8,
+      "name": "The Sphere chair",
+      "image": "../assets/catalog/item-8.png",
+      "weight": "500",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "230",
+      "priceActive": "230",
+      "currency": "&pound;",
+      "category": "Chairs",
+      "type": "---",
+      "isPopular": "false",
+      "isNew": "false"
+    },
+    {
+      "id": 9,
+      "name": "The Stars Lamps",
+      "image": "../assets/catalog/item-9.png",
+      "weight": "500",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "550",
+      "priceActive": "550",
+      "currency": "&pound;",
+      "category": "Fixtures",
+      "type": "---",
+      "isPopular": "false",
+      "isNew": "false"
+    },
+    {
+      "id": 10,
+      "name": "The Grey Ceramics",
+      "image": "../assets/catalog/item-10.png",
+      "weight": "500",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "120",
+      "priceActive": "120",
+      "currency": "&#8381;",
+      "category": "Ceramics",
+      "type": "---",
+      "isPopular": "false",
+      "isNew": "false"
+    },
+    {
+      "id": 11,
+      "name": "The Solars Chair",
+      "image": "../assets/catalog/item-11.png",
+      "weight": "500",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "135",
+      "priceActive": "135",
+      "currency": "&pound;",
+      "category": "Chairs",
+      "type": "---",
+      "isPopular": "false",
+      "isNew": "false"
+    },
+    {
+      "id": 12,
+      "name": "The Easy True Crop",
+      "image": "../assets/catalog/item-12.png",
+      "weight": "500",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "80",
+      "priceActive": "80",
+      "currency": "&pound;",
+      "category": "Plant pots",
+      "type": "---",
+      "isPopular": "false",
+      "isNew": "true"
+    },
+    {
+      "id": 13,
+      "name": "The Blue Ceramics",
+      "image": "../assets/catalog/item-13.png",
+      "weight": "500",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "140",
+      "priceActive": "140",
+      "currency": "&pound;",
+      "category": "Ceramics",
+      "type": "---",
+      "isPopular": "false",
+      "isNew": "false"
+    },
+    {
+      "id": 14,
+      "name": "The Blue Sofa",
+      "image": "../assets/catalog/item-14.png",
+      "weight": "500",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "870",
+      "priceActive": "870",
+      "currency": "&pound;",
+      "category": "Furniture",
+      "type": "---",
+      "isPopular": "false",
+      "isNew": "false"
+    },
+    {
+      "id": 15,
+      "name": "The Blue Light",
+      "image": "../assets/catalog/item-15.png",
+      "weight": "500",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "140",
+      "priceActive": "140",
+      "currency": "&pound;",
+      "category": "Fixtures",
+      "type": "---",
+      "isPopular": "false",
+      "isNew": "false"
+    },
+    {
+      "id": 16,
+      "name": "The Clouds Table",
+      "image": "../assets/catalog/item-16.png",
+      "weight": "500",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "340",
+      "priceActive": "340",
+      "currency": "&pound;",
+      "category": "Tables",
+      "type": "---",
+      "isPopular": "false",
+      "isNew": "false"
+    },
+    {
+      "id": 17,
+      "name": "The Family Sofa",
+      "image": "../assets/catalog/item-17.png",
+      "weight": "500",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "1140",
+      "priceActive": "1140",
+      "currency": "&pound;",
+      "category": "Furniture",
+      "type": "---",
+      "isPopular": "false",
+      "isNew": "false"
+    },
+    {
+      "id": 18,
+      "name": "The Ademia Nova",
+      "image": "../assets/catalog/item-18.png",
+      "weight": "500",
+      "units": "g",
+      "resume":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "description":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+      "priceOrigin": "90",
+      "priceActive": "90",
+      "currency": "&pound;",
+      "category": "Plant pots",
+      "type": "---",
+      "isPopular": "false",
+      "isNew": "false"
+    }
+  ]

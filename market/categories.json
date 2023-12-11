@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "category":"Plant pots"
+    },
+    {
+        "id":2,
+        "category":"Ceramics"
+    },
+    {
+        "id":3,
+        "category":"Tables"
+    },
+    {
+        "id":4,
+        "category":"Chairs"
+    },
+    {
+        "id":5,
+        "category":"Crockery"
+    },
+    {
+        "id":6,
+        "category":"Tableware"
+    },
+    {
+        "id":7,
+        "category":"Fixtures"
+    },
+    {
+        "id":8,
+        "category":"Furniture"
+    }
+]

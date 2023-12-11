@@ -1,0 +1,42 @@
+{
+    "amount": 430,
+    "countGoods": 2,
+    "contents": [
+        {
+            "id": 18,
+            "name": "The Ademia Nova",
+            "image": "../assets/catalog/item-18.png",
+            "weight": "500",
+            "units": "g",
+            "resume":
+              "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+            "description":
+              "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+            "priceOrigin": "90",
+            "priceActive": "90",
+            "currency": "&pound;",
+            "category": "Plant pots",
+            "type": "---",
+            "isPopular": "false",
+            "isNew": "false"
+        },
+        {
+            "id": 16,
+            "name": "The Clouds Table",
+            "image": "../assets/catalog/item-16.png",
+            "weight": "500",
+            "units": "g",
+            "resume":
+              "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+            "description":
+              "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptatibus laboriosam rem",
+            "priceOrigin": "340",
+            "priceActive": "340",
+            "currency": "&pound;",
+            "category": "Tables",
+            "type": "---",
+            "isPopular": "false",
+            "isNew": "false"
+        }
+    ]
+  }
