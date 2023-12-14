@@ -1,13 +1,12 @@
 {
-  "amount": 0,
-  "countGoods": 0,
+  "amount": 1000,
+  "countGoods": 1,
   "contents": [
     {
-      "id": "",
-      "title": "",
-      "price": "",
-      "quantity": ""
+      "id": "2",
+      "title": "Мышка",
+      "price": "1000",
+      "quantity": "1"
     }
-
   ]
 }
