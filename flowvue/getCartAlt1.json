@@ -1,0 +1,23 @@
+{
+  "amount": 0,
+  "countGoods": 0,
+  "contents": [
+    {
+    "id": 1,
+    "name": "",
+    "image": "",
+    "height": "0",
+    "width": "0",
+    "resume": "",
+    "description": "",
+    "priceOrigin": "0",
+    "priceActive": "0",
+    "currency": "",
+    "category": "",
+    "type": "",
+    "isPopular": "false",
+    "isNew": "false",
+    "quantity": "0"
+    }
+  ]
+}

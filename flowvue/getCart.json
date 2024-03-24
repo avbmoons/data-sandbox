@@ -1,0 +1,24 @@
+{
+  "amount": 1000,
+  "countGoods": 1,
+  "contents": [
+    {
+    "id": "1",
+    "name": "Smile for Me",
+    "image": "../assets/catalog/item-1.png",
+    "height": "50",
+    "width": "30",
+    "resume": "The bouquet including Alstroemeria and Tied with satin ribbon",
+    "description":
+      "The bouquet can be prepared for delivery in 20 minutes, including: Alstroemeria ligh- pink, Alstroemeria yellow, Tied with satin ribbon - 3 pieces. Infuse happiness into your friendship and bring friends closer with this beautiful bunch.A luxurious medley of pretty pink and yellow alstromerias with a mass of green foliage will be a nice surprise for any occasion.",
+    "priceOrigin": "40",
+    "priceActive": "32",
+    "currency": "&euro;",
+    "category": "Bouquets",
+    "type": "---",
+    "isPopular": "false",
+    "isNew": "false",
+    "quantity": "1"
+    }
+  ]
+}

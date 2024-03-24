@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "Smile for Me",
+    "image": "../assets/catalog/item-1.png",
+    "height": "50",
+    "width": "30",
+    "resume": "The bouquet including Alstroemeria and Tied with satin ribbon",
+    "description":
+      "The bouquet can be prepared for delivery in 20 minutes, including: Alstroemeria ligh- pink, Alstroemeria yellow, Tied with satin ribbon - 3 pieces. Infuse happiness into your friendship and bring friends closer with this beautiful bunch.A luxurious medley of pretty pink and yellow alstromerias with a mass of green foliage will be a nice surprise for any occasion.",
+    "priceOrigin": "40",
+    "priceActive": "32",
+    "currency": "&euro;",
+    "category": "Bouquets",
+    "type": "---",
+    "isPopular": "false",
+    "isNew": "false"
+  },
+  {
+    "id": 2,
+    "name": "Pleasant Surprise",
+    "image": "../assets/catalog/item-2.png",
+    "height": 50,
+    "width": 30,
+    "resume":
+      "The bouquet consist of 21 flowers, including Alstroemeria, Branches of Buxus bush and Tied with satin ribbon",
+    "description":
+      "The bouquet consist of 21 flowers, can be prepared for delivery in 30 minutes, including: Alstroemeria ligh- pink - 3 pieces, Alstroemeria peach - 3 pieces, Alstroemeria red - 3 pieces, Alstroemeria yellow - 7 pieces, Alstroemeria dark pink - 5 pieces, Branches of Buxus bush - 7 pieces, Tied with satin ribbon - 4 pieces. Inspired by happy colors, this 21 alstroemerias bouquet will fill the day with sunshine and joy.All their wishes will come true when they receive this bright and sunny flower arrangement. Send one today, and make someone's day!",
+    "priceOrigin": 35.2,
+    "priceActive": 32.7,
+    "currency": "&euro;",
+    "category": "Bouquets",
+    "type": "---",
+    "isPopular": "false",
+    "isNew": "false"
+  },
+  {
+    "id": 3,
+    "name": "Red & White Roses",
+    "image": "../assets/catalog/item-3.png",
+    "height": "",
+    "width": "",
+    "resume":
+      "The mixed roses consist of 15 flowers, including Alstroemeria, Rose Avalanche, Hypericum, Aspidistra, Ruscus, Eagle Fern, Wrapped in sisal and Tied with satin ribbon",
+    "description":
+      "The mixed roses consist of 15 flowers, can be prepared for delivery in 40 minutes, including: Alstroemeria white - 7 pieces, Rose Avalanche 50-60 cm - 1 piece, Rose Explorer 50-60 cm - 7 pieces, Hypericum - 2 pieces, Aspidistra - 5 pieces, Ruscus - 7 pieces, Eagle Fern - 10 pieces, Wrapped in sisal - 3 pieces, Tied with satin ribbon - 2 pieces. A lovely display of color and fragrance, this charming rose bouquet is the perfect choice for expressing affection. Exquisite red and white roses are designed artfully by our skillful florists.",
+    "priceOrigin": 40,
+    "priceActive": 40,
+    "currency": "&euro;",
+    "category": "Bouquets",
+    "type": "---",
+    "isPopular": "false",
+    "isNew": "false"
+  },
+  {
+    "id": 4,
+    "name": "Red Elegance",
+    "image": "../assets/catalog/item-4.png",
+    "height": 55,
+    "width": 35,
+    "resume":
+      "The bouquet consist of 19 flowers, including: Alstroemeria, Branches of Buxus bush and Tied with satin ribbon",
+    "description":
+      "The bouquet consist of 19 flowers, can be prepared for delivery in 30 minutes, including: Alstroemeria red - 19 pieces, Branches of Buxus bush - 7 pieces, Tied with satin ribbon - 4 pieces. A lovely way to show your loved one that you care about them is to surprise them with this elegant and luxurious hand-tied bouquet of 19 alstromerias designed with greenery and colorful ribbons.",
+    "priceOrigin": 40,
+    "priceActive": 40,
+    "currency": "&euro;",
+    "category": "Bouquets",
+    "type": "---",
+    "isPopular": "false",
+    "isNew": "false"
+  },
+  {
+    "id": 5,
+    "name": "Have a Wonderful Journey",
+    "image": "../assets/catalog/item-5.png",
+    "height": 45,
+    "width": 35,
+    "resume":
+      "The bouquet consist of 27 flowers, including Alstroemeria, Chrysanthemum, Gerbera, Ruscus and Tied with satin ribbon",
+    "description":
+      "The bouquet consist of 27 flowers, can be prepared for delivery in 30 minutes, including: Alstroemeria yellow - 4 pieces, Alstroemeria red - 5 pieces, Chrysanthemum white - 3 pieces, Gerbera orange - 4 pieces, Gerbera yellow - 4 pieces, Alstroemeria dark pink - 7 pieces, Ruscus - 5 pieces, Tied with satin ribbon - 2 pieces. A truly pretty bouquet is designed in shades of white, yellow and red. The bouquet consist of 25 flowers (17 alstromerias, 8 gerberas). Stunningly sweet, these long-lasting fresh flowers are sure to impress!",
+    "priceOrigin": 40,
+    "priceActive": 40,
+    "currency": "&euro;",
+    "category": "Bouquets",
+    "type": "---",
+    "isPopular": "false",
+    "isNew": "false"
+  }
+]
