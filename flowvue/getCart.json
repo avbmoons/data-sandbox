@@ -6,7 +6,7 @@
         "id":2,
         "title":"Pleasant Surprise",
         "price":32.7,
-        "image": "~item-2.png",
+        "image": "../../public/catalog/item-2.png",
         "quantity": "1"
       }
     ]
