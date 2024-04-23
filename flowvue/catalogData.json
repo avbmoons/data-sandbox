@@ -28,5 +28,29 @@
         "title":"Have a Wonderful Journey",
         "price":45,
         "image": "item-5.png"
+    },
+    {
+        "id":6,
+        "title":"Colorful Emotions",
+        "price":48.2,
+        "image": "item-6.png"
+    },
+    {
+        "id":7,
+        "title":"Beautiful in Red",
+        "price":54.1,
+        "image": "item-7.png"
+    },
+    {
+        "id":8,
+        "title":"Bright and Beautiful",
+        "price":52.1,
+        "image": "item-8.png"
+    },
+    {
+        "id":9,
+        "title":"Yellow Bounch",
+        "price":51.4,
+        "image": "item-9.png"
     }
 ]
